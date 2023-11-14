@@ -52,7 +52,8 @@
 #### 🗂️ 과제 페이지
 
 <div align="center">
-<img width=700, src="https://github.com/Hun5LEE/LMS-Project/assets/118670781/b06d82a2-6ec7-4108-9456-64b6293e4920">
+<img width=700, src="https://github.com/Hun5LEE/LMS-Project/assets/118670781/b8ecb9ad-380a-478d-a963-fe61864cc53b">
+  
 <img width=700, src="https://github.com/sniperfactory-official/sfac-lms-team-b/assets/72500346/bae2a83b-e32c-424b-b6e7-615c833f48ec"/>
 </div>
 <br/>
